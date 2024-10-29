@@ -1,6 +1,12 @@
-# Pool - 2015
-2 players 2D pool game built using pure JavaScript in 2015.
-Only Browser provided APIs are used with no any external libraries involved.
+# 🎱 2D Pool - 2015
+A classic 2-player 2D pool game built entirely in pure JavaScript in 2015. No external libraries—just core browser APIs!
+
+Key Features:
+Pure JavaScript Implementation: Leveraging only browser-provided APIs:
+DOM Manipulation: document.getElementById, document.getElementsByClassName, document.createElement, document.getElementsByTagName
+Event Handling: document.attachEvent, document.addEventListener
+Timed Actions: setTimeout, clearTimeout
+
 
 ## Setup
 Clone the Repo & open the file index.html in your browser.
